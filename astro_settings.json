@@ -1,5 +1,8 @@
 {
-    "theme": "lumen",
+    "theme": "litera",
     "lang": "zh",
-    "font_size": 10
+    "font_size": 10,
+    "window_size": "881x730+837+301",
+    "sensor_editor_size": "686x447",
+    "lens_editor_size": "714x463"
 }
